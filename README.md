@@ -8,8 +8,10 @@ Este projeto é uma **atividade prática** do **Curso de Extensão Capacita Bras
 
 ## 📸 Demonstração
 
-![Calculadora React](./(https://github.com/user-attachments/assets/1b89e6dc-b396-46de-9c12-f43ca1ac13f3)
-) <!-- (Opcional) Adicione um printscreen da calculadora -->
+## 📸 Demonstração
+
+<img src="https://github.com/user-attachments/assets/cae857de-f729-4ed9-b179-9bde56563074" alt="Calculadora React" style="max-width: 100%; height: auto;" />
+
 
 ## 🛠 Tecnologias Utilizadas
 
