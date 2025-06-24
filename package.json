@@ -1,7 +1,7 @@
 {
   "name": "calculadora",
   "version": "0.1.0",
-  "homepage": "https://Lanna-Maria.github.io/Calculadora-React",
+  "homepage": "https://lanna-maria.github.io/Calculadora-React/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
